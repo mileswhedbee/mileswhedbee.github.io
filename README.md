@@ -11,6 +11,8 @@
 [erabu] (https://en.wikipedia.org/wiki/Black-banded_sea_krait)
 
 
-## Microbial Biology, B.S. UC Berkeley
+## Microbial Biology, B.S. UC Berkeley ##
 
 I studied microbial biology in my undergrad, I was interested in pursuing virology, but became interested in neurscience in my senior year.
+
+## M.S. Cell and Molecular Biology, San Diego State University ##
