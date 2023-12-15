@@ -12,3 +12,4 @@
 
 
 ## Microbial Biology, B.S. UC Berkeley
+I studied microbial biology in my undergrad, I was interested in pursuing virology, but became interested in neurscience in my senior year.
