@@ -6,5 +6,5 @@
 
 <h3>Lover of cats (and all animals, except snakes they scary!)<h3> <img src="/cats.jpg" width="50%">
 
-<img src="/assets/images/seaSnake.jpg">
+<img src="/assets/images/seaSnake.jpeg">
 <h3>Actually they are pretty cool, especially sea snakes like the Black-banded sea krait (erabu)<h3>
