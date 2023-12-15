@@ -4,8 +4,8 @@
 <h1> Miles Whedbee, PhD <h1>
 <h2>Computational biology, evolutionary transcriptomics/genomics</h2>
 
-![20230830_185746](https://github.com/mileswhedbee/mileswhedbee.github.io/assets/43425455/58a5fe5e-9265-4bf0-8d71-db4e1ea70278)
-<h3>Lover of cats (and most animals, except snakes they scary!)<h3>
+! <h3>Lover of cats (and most animals, except snakes they scary!)<h3> /assets/images/
+
 
 
 ![seaSnake](https://github.com/mileswhedbee/mileswhedbee.github.io/assets/43425455/c58aced9-68cd-42ff-a6f9-925ce82dbb7b)
