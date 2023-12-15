@@ -12,7 +12,7 @@
 
 <h1> My Biology Research Background <h1>
 
-I studied microbial biology in my undergrad, I was interested in pursuing virology, but became interested in neurscience in my senior year.
+<h3> I studied microbial biology in my undergrad, I was interested in pursuing virology, but became interested in neurscience in my senior year.<h3>
 
 <h2> Microbial Biology, B.S. UC Berkeley <h2>
 
