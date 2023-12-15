@@ -1,1 +1,3 @@
-![2022-04-18-161411](https://github.com/mileswhedbee/mileswhedbee.github.io/assets/43425455/cb1f5184-e335-4dc2-a375-b15f8364dd39)
+
+![20230830_185746](https://github.com/mileswhedbee/mileswhedbee.github.io/assets/43425455/58a5fe5e-9265-4bf0-8d71-db4e1ea70278)
+Lover of cats (and most animals, except snakes they scary!)
