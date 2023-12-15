@@ -4,7 +4,7 @@
 <h1> Miles Whedbee, PhD <h1>
 <h2>Computational biology, evolutionary transcriptomics/genomics</h2>
 
-!Lover of cats (and most animals, except snakes they scary!) <img src="/assets/images/20210412_152015.jpg" width="50%">
+!Lover of cats (and most animals, except snakes they scary!) <img src="/assets/images/cats.jpg" width="50%">
 
 
 
