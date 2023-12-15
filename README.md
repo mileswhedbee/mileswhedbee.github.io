@@ -8,4 +8,4 @@
 
 <img src="/assets/images/seaSnake.jpeg">
 <h3>Actually they are pretty cool, especially sea snakes like the Black-banded sea krait (erabu)<h3>
-https://en.wikipedia.org/wiki/Black-banded_sea_krait
+[erabu] (https://en.wikipedia.org/wiki/Black-banded_sea_krait)
