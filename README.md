@@ -10,10 +10,10 @@
 <h3>Actually they are pretty cool, especially sea snakes like the Black-banded sea krait (erabu)<h3>
 [erabu] (https://en.wikipedia.org/wiki/Black-banded_sea_krait)
 
-# My Biology Research Background 
-
-## Microbial Biology, B.S. UC Berkeley ##
-
+<h1> My Biology Research Background <h1>
 I studied microbial biology in my undergrad, I was interested in pursuing virology, but became interested in neurscience in my senior year.
 
-## M.S. Cell and Molecular Biology, San Diego State University ##
+<h2> Microbial Biology, B.S. UC Berkeley <h2>
+
+
+<h2> M.S. Cell and Molecular Biology, San Diego State University <h2>
